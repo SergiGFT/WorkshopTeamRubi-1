@@ -1,0 +1,15 @@
+Alta - Nombre/Apellidos/Direccion
+CRUD - ID
+Buscar usuario by Id - ID/ Carrito - Puntos fidelidad/Compra media
+Carga de lista de usuarios - Stand by - Jose/Eduardo
+Añadir favorito - Stand by - Jose/Eduardo
+
+
+Usuario
+--------------------
+Long Id
+varchar Nombre
+varchar Apellidos
+varchar Direccion
+
+*Date fechaNacimiento*
